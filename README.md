@@ -56,4 +56,6 @@ This isolates guest devices and IoT devices from the main network and from each 
 | Short GI | **ON** | Small speed boost |
 | Fast Roaming (802.11r) | **OFF** | Only useful with multiple access points |
 
+##Reflection
 
+Working through these router security settings gave me my first real‑world networking experience and helped me apply the concepts I’ve been learning in class. Seeing theory turn into practice has motivated me to explore the cybersecurity field in greater depth. This experience has strengthened my interest in cybersecurity and encouraged me to continue building practical skills that I can apply to future projects.
