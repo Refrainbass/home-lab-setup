@@ -23,7 +23,7 @@ Both router and browser now use Cloudflare for:
 - Better privacy
 - Higher reliability
 
-## ✔ Wireless Security Settings
+##  Wireless Security Settings
 
 ### **WPA3**
 - **Enabled**
