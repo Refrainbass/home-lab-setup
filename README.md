@@ -35,7 +35,7 @@ Both router and browser now use Cloudflare for:
 
 ---
 
-## ✔ Guest Network Segmentation
+##  Guest Network Segmentation
 
 ### **Guest Network**
 - **Enabled**
@@ -48,7 +48,7 @@ This isolates guest devices and IoT devices from the main network and from each 
 
 ---
 
-## ✔ Advanced Wireless Settings
+##  Advanced Wireless Settings
 
 | Setting | Status | Notes |
 |--------|--------|-------|
